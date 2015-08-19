@@ -3,6 +3,6 @@ Over 2000 lines of SAS code in Data Analytics, Statistical Modeling and Time Ser
 
 Several stages of data cleansing, transformation and data analytics. Including pattern identification charts and statistical modeling.
 
-Programmed by Pavan Kumar Narayanan using SAS 9.4
+Programmed by Pavan Narayn using SAS 9.4
 
 
