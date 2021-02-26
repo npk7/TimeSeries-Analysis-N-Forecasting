@@ -5,6 +5,6 @@ Over 2000 lines of SAS code in Data Analytics, Statistical Modeling and Time Ser
 - Pattern identification charts
 - Statistical modeling of refined data
 
-Programmed using SAS 9.4
+Programmed by Pavan Narayanan, using SAS 9.4
 
 
